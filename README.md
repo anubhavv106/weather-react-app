@@ -1,3 +1,3 @@
 # REACT BASED WEATHER APP
 
-VIEW THE PROJECT LIVE [Here](https://weatherreact0app.netlify.app/)
+VIEW THE PROJECT LIVE [Here](blank_https://weatherreact0app.netlify.app/)
